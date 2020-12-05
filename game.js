@@ -15,7 +15,7 @@ $(document).keypress(function() {
   }
 });
 
-window.addEventListener('touchstart', function onFirstTouch() {
+$(document).addEventListener('touchstart', function() {
   if (!started) {
     $("#level-title").text("Level " + level);
     nextSequence();
