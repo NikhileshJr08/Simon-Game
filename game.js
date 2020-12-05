@@ -7,6 +7,7 @@ var userClickedPattern = [];
 var started = false;
 var level = 0;
 
+
 $(document).keypress(function() {
   if (!started) {
     $("#level-title").text("Level " + level);
@@ -15,7 +16,7 @@ $(document).keypress(function() {
   }
 });
 
-$(document).addEventListener('touchstart', function() {
+window.addEventListener('touchstart', function onFirstTouch() {
   if (!started) {
     $("#level-title").text("Level " + level);
     nextSequence();
