@@ -10,3 +10,10 @@
   
 ### Sneak Peek :eyes:
 
+<img src="Simon Home.png"></img>
+<img src="Simon L11.png"></img>
+
+#### I'm open to suggestions or if you have any issue, please open up an issue and I will get back to you as soon as I can
+#### Leave a :star: if you liked the game 
+#### [Take a look at my other works](https://github.com/NikhileshJr08?tab=repositories)
+## Thank You :pray:
